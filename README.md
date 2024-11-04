@@ -67,7 +67,7 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 15. click on debug and simulate using simulation as shown below   
 
 ## STM 32 CUBE PROGRAM :
-```c
+```
 #include "main.h"
 
 void SystemClock_Config(void);
